@@ -1,0 +1,8 @@
+category: Perl
+requires: cygwin perl
+sdesc: "Perl module for working with Zip archives"
+ldesc: "This module allows a Perl program to create, manipulate,
+read, and write Zip archive files.
+
+Zip archives can be created, or you can read from existing zip files.
+Once created, they can be written to files, streams, or strings."

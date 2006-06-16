@@ -1,0 +1,2 @@
+CPAN_AUTHOR=smpeters # adamk starting 1.17_01 
+inherit perl
