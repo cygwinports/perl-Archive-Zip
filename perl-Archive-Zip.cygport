@@ -1,0 +1,12 @@
+CPAN_AUTHOR=adamk
+inherit perl
+
+NAME="perl-Archive-Zip"
+VERSION=1.30
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl module for working with Zip archives"
+DESCRIPTION="This module allows a Perl program to create, manipulate, read, and
+write Zip archive files. Zip archives can be created, or you can read from
+existing zip files. Once created, they can be written to files, streams, or
+strings."
